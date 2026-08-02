@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vanshikamehtaaa/Leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vanshikamehtaaa/Leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0141-linked-list-cycle](https://github.com/vanshikamehtaaa/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vanshikamehtaaa/Leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0443-string-compression](https://github.com/vanshikamehtaaa/Leetcode-solutions/tree/master/0443-string-compression) |
@@ -30,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0443-string-compression](https://github.com/vanshikamehtaaa/Leetcode-solutions/tree/master/0443-string-compression) |
+## Array
+|  |
+| ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vanshikamehtaaa/Leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 <!---LeetCode Topics End-->
