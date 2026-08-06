@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/vanshikamehtaaa/Leetcode-solutions/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/vanshikamehtaaa/Leetcode-solutions/tree/master/0443-string-compression) |
 ## Array
 |  |
@@ -60,10 +61,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/vanshikamehtaaa/Leetcode-solutions/tree/master/0415-add-strings) |
 | [1920-build-array-from-permutation](https://github.com/vanshikamehtaaa/Leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 ## Math
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/vanshikamehtaaa/Leetcode-solutions/tree/master/0066-plus-one) |
+| [0415-add-strings](https://github.com/vanshikamehtaaa/Leetcode-solutions/tree/master/0415-add-strings) |
 | [0989-add-to-array-form-of-integer](https://github.com/vanshikamehtaaa/Leetcode-solutions/tree/master/0989-add-to-array-form-of-integer) |
 <!---LeetCode Topics End-->
