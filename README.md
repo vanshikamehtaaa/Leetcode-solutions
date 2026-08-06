@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/vanshikamehtaaa/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vanshikamehtaaa/Leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0853-car-fleet](https://github.com/vanshikamehtaaa/Leetcode-solutions/tree/master/0853-car-fleet) |
 | [1470-shuffle-the-array](https://github.com/vanshikamehtaaa/Leetcode-solutions/tree/master/1470-shuffle-the-array) |
@@ -59,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/vanshikamehtaaa/Leetcode-solutions/tree/master/1920-build-array-from-permutation) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/vanshikamehtaaa/Leetcode-solutions/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
