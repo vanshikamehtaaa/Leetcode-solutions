@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vanshikamehtaaa/Leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0853-car-fleet](https://github.com/vanshikamehtaaa/Leetcode-solutions/tree/master/0853-car-fleet) |
+| [1470-shuffle-the-array](https://github.com/vanshikamehtaaa/Leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/vanshikamehtaaa/Leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/vanshikamehtaaa/Leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 ## Stack
