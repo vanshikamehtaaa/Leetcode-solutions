@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vanshikamehtaaa/Leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/vanshikamehtaaa/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vanshikamehtaaa/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0643-maximum-average-subarray-i](https://github.com/vanshikamehtaaa/Leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0853-car-fleet](https://github.com/vanshikamehtaaa/Leetcode-solutions/tree/master/0853-car-fleet) |
 | [0989-add-to-array-form-of-integer](https://github.com/vanshikamehtaaa/Leetcode-solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1470-shuffle-the-array](https://github.com/vanshikamehtaaa/Leetcode-solutions/tree/master/1470-shuffle-the-array) |
@@ -86,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vanshikamehtaaa/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/vanshikamehtaaa/Leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
